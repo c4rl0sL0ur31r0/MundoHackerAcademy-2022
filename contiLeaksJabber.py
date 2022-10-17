@@ -4,7 +4,7 @@ import requests
 from commonregex import CommonRegex
 from gephistreamer import graph
 
-from src.connectors.gephiConnector import gephiConnector
+from gephiConnector import gephiConnector
 
 
 class contiLeaksJabber:
